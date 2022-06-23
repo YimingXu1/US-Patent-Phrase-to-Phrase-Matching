@@ -1,6 +1,8 @@
 # U.S. Patent Phrase to Phrase Matching
 ## Kaggle Competition - Help Identify Similar Phrases in U.S. Patents
 
+![image](https://cdn-images-1.medium.com/max/1600/1*V7MCE5JsZH2qxq7Vf9hUgw.png)
+
 ### Introduction
 
 Over the past two centuries, the USPTO has amassed nearly 11 million patents, and such massive amounts of data have created difficulties in patent examination and search. How can a patent examiner determine whether a newly-filed patent has previously been described? What happens if a patent searcher finds the subject he is looking for in the vast ocean of data?
