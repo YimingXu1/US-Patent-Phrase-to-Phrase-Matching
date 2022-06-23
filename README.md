@@ -12,8 +12,6 @@ Cooperative Patent Classification was added as a technical domain context to ass
 
 Todo：
 
-Upload EDA
-
 Upload Model
 
-Upload Dataset
+Upload review
